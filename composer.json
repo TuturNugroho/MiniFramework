@@ -1,0 +1,16 @@
+{
+    "name":"mas_rahmani/oop-database",
+    "description":"PHP",
+    "type":"project",
+    "authors": [
+        {
+            "name":"Tutur Nurgoho",
+            "email": "tutur.nurgoho@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4": {
+            "OOP\\App\\":"App"
+        }
+    }
+}
